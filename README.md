@@ -1,4 +1,4 @@
-pow-wow
+Pow-wow Project
 =======
 
 Realator App Entry for Hackathon
