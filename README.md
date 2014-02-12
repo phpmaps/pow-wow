@@ -16,7 +16,7 @@ Realator App Entry for Hackathon
             "requestUrl": "http://some/arcgis/geoenrich/endpoint",
             "priority": 5,
             "distance": 2,
-            "pki":["field1","field2","field3"],
+            "kpi":["field1","field2","field3"],
             "fragementName":"three-rows.html"
         },
         {
@@ -24,7 +24,7 @@ Realator App Entry for Hackathon
             "requestUrl": "http://some/arcgis/geoenrich/endpoint",
             "priority": 4,
             "distance": 2,
-            "pki":["field1"],
+            "kpi":["field1"],
             "fragementName":"single-value.html"
         }
     ]
